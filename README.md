@@ -1,7 +1,7 @@
 # Encoding-and-Decoding-using-base64
-This is my first git repository
+This is my first git repository.
+<br>
 Author - Bhumika
-
 
 
 import base64
