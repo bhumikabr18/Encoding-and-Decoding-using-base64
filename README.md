@@ -1,4 +1,9 @@
 # Encoding-and-Decoding-using-base64
+This is my first git repository
+Author - Bhumika
+
+
+
 import base64
 def encode_base64(data):
     #convert string to bytesand then encode
