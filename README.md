@@ -8,6 +8,8 @@ Project: Base64 Encoder/Decoder Application
 This project is a simple yet powerful application that allows users to input data in the form of numbers or strings and provides functionality to both encode the input into base64 format and decode base64 back into its original form.
 Base64 encoding is widely used for encoding binary data into a string format, making it easier to store or transmit over media that are designed to handle text.
 <br>
+
+
 Features:
 <br>
 1. Accepts numeric or string inputs from the user.
