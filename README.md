@@ -11,6 +11,8 @@ This project is a simple yet powerful application that allows users to input dat
 Base64 encoding is widely used for encoding binary data into a string format, making it easier to store or transmit over media that are designed to handle text.
 <br>
 
+<br>
+
 
 Features:
 <br>
